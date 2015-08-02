@@ -1,0 +1,24 @@
+{
+  "name": "stylize-handlebars",
+  "version": "0.0.0",
+  "description": "Compiler for Stylize in Handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Josh Miller",
+    "email": "josh@josh-miller.me",
+    "url": "http://josh-miller.me/"
+  },
+  "license": "GPL-3.0",
+  "keywords": [
+    "stylize-plugin",
+    "stylize",
+    "styleguide"
+  ],
+  "dependencies": {
+    "handlebars": "^3.0.3",
+    "lodash": "^3.10.0"
+  }
+}
