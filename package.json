@@ -11,6 +11,7 @@
     "email": "josh@josh-miller.me",
     "url": "http://josh-miller.me/"
   },
+  "repository": "Josh-Miller/stylize-handlebars",
   "license": "GPL-3.0",
   "keywords": [
     "stylize-plugin",
