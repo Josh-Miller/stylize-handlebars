@@ -4,7 +4,7 @@ Handlebars compiler for Stylize.
 
 ## How to use in Stylize
 
-Intall in your Stylize project
+Install in your Stylize project
 ```
 $ npm i stylize-handlebars --save
 ```
